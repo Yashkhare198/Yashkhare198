@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello :wave: I'm ***Yash Khare***!
 
-<!--
-**Yashkhare198/Yashkhare198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+I'm a new software developer staying in India. </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As I have just started on this journey, there is so much to learn and having one quote to keep myself grounded. </br>
+
+> You'll never know what's around the corner. So, be ready for anything...
+
+</br>
+
+#### NOW
+- :Focusing on DSA.
+- :Development: Building projects in MERN Stack to learn FULL STACK Development you can check my work here at github
+
+</br>
+
+#### BIO
+- :hammer_and_wrench: Active daily at [LeetCode](https://leetcode.com/yashkhare189/)
+
+</br>
+
+---
+</br>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yashkhare189?ext=heatmap)](https://leetcode.com/yashkhare189)
+
+</br>
